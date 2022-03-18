@@ -14,3 +14,10 @@ Step5: Create dockerFile in which we have to give some commands to run some file
 
 Step6: Finally create a Customer Docker image ,the location of the docker image in the local machine is /var/lib/docker/.
 
+
+
+![](https://raw.githubusercontent.com/TapendraBaduwal/E-Commerce-Customers/master/API4.png)
+
+
+![](https://raw.githubusercontent.com/TapendraBaduwal/E-Commerce-Customers/master/API5.png)
+
